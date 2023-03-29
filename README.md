@@ -13,4 +13,6 @@ React미니 프로젝트를 위한 연습
 Front-end: 하경미,이혜영,이효정
 Back-end: 우현주,유지은,차경준,김성민,차대군
 
-notion : (https://tourmaline-atlasaurus-77b.notion.site/Front-Backend-4-5b9f08f249aa4cb1b71dad45c8b29aae)
+<a href="https://tourmaline-atlasaurus-77b.notion.site/Front-Backend-4-5b9f08f249aa4cb1b71dad45c8b29aae"><img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a><br/>
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,react,js,figma&theme=light)](https://skillicons.dev)
